@@ -1,6 +1,6 @@
 Name:		python-os-networksv2-python-novaclient-ext
 Version:	0.26
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/o/os-networksv2-python-novaclient-ext/os_networksv2_python_novaclient_ext-%{version}.tar.gz
 Summary:	Adds rackspace networks support to python-novaclient
 URL:		https://pypi.org/project/os-networksv2-python-novaclient-ext/
